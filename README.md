@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danial17d
-- 👀 I’m interested in Garphics and AI
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
